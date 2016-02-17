@@ -1,0 +1,28 @@
+name: PerformProductivity
+favicon: null
+layout_spectrum: 0.31172920600511134
+typography_spectrum: 0.3375114619266242
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.39172109914943576
+  lightness: 0.7812274997122586
+  saturation: 0.3328211158514023
+  rhythmicContrast: 0.6448758617043495
+purpose: []
